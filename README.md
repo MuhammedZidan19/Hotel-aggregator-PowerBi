@@ -17,3 +17,9 @@ The internship project aims to analyze a dataset of hotel aggregator listings us
 - Interactive Power BI dashboards illustrating geographical distribution, pricing trends, host characteristics, and review scores.
 - Reports on availability patterns, property and room preferences, and factors influencing guest satisfaction.
 - Recommendations for hosts and the aggregator platform based on the analysis.
+
+![image](https://github.com/MuhammedZidan19/Hotel-aggregator-PowerBi/assets/82116345/a1cedadf-5d14-47fe-a8b2-59cf0c422247)
+
+![image](https://github.com/MuhammedZidan19/Hotel-aggregator-PowerBi/assets/82116345/c57ab657-70c9-440c-9afd-a93539ce12d1)
+
+![image](https://github.com/MuhammedZidan19/Hotel-aggregator-PowerBi/assets/82116345/a921a4e4-fc76-403b-a212-55791ad73286)
